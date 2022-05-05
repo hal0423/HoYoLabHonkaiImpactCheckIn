@@ -2,6 +2,7 @@
 chrome.runtime.onStartup.addListener(function () {
     setTimeout(onload, 5000);
 });
+
 async function onload() {
     var res = await fetch(
         "https://api-os-takumi.mihoyo.com/event/mani/sign",
