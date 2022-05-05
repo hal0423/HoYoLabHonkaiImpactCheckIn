@@ -1,7 +1,7 @@
 {
-    "name": "GI checkin",
-    "description": "GI checkin by tqk2811",
-    "version": "0.0.0.1",
+    "name": "HoyoLab Honkai Impact 3rd check in",
+    "description": "free xtals lol",
+    "version": "1.1",
     "host_permissions": [ "*://*.mihoyo.com/*" ],
     "permissions": [
         "webRequest"
