@@ -1,5 +1,5 @@
 # HoYoLab Honkai Impact 3rd Auto Check in
-Forked from https://github.com/tqk2811/AutoCheckinGI, modified for Honkai Impact 3rd HoYoLab check in.
+Forked from [Genshin Impact Auto Check in](https://github.com/tqk2811/AutoCheckinGI), modified to Honkai Impact 3rd HoYoLab check in.
 
 How to use: 
 + `Code` -> `Download Zip` and unzip on your local directory 
