@@ -8,6 +8,9 @@ async function onload() {
         { 
             method: "POST", 
             body: JSON.stringify(
-                { act_id: "e202110291205111" }) });
+                { 
+                    act_id: "e202110291205111" 
+                }) 
+        });
     console.log(await res.text());
 }
