@@ -4,5 +4,5 @@ Forked from [Genshin Impact Auto Check in](https://github.com/tqk2811/AutoChecki
 How to use: 
 + `Code` -> `Download Zip` and unzip on your local directory 
 + Make sure you're logged in to [HoYoLab Check in Website](https://act.hoyolab.com/bbs/event/signin-bh3/index.html?act_id=e202110291205111)  
-+ Go to `chrome://extensions/`, enable `Developer mode`. Click `Load Unpacked` and open the `/src/` in your unzipped directory
++ Go to `chrome://extensions/`, enable `Developer mode`. Click `Load Unpacked` and naviate to `/src/` in your unzipped directory
 + Make sure to run Chrome everyday
