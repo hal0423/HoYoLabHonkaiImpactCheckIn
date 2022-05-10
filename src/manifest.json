@@ -1,19 +1,21 @@
 {
-  "name": "HoyoLab Honkai Impact 3rd check in",
-  "description": "free xtals lol",
-  "version": "1.1",
-  "manifest_version": 3, 
-  "background": {
-    "service_worker": "background.js"
-  },
-  "host_permissions": [ "*://*.mihoyo.com/*" ],
-  "permissions": [
-      "webRequest"
-  ],
-  "icons": {
-    "16": "img/icon.png",
-    "32": "img/icon.png",
-    "48": "img/icon.png",
-    "128": "img/icon.png"
-  }
+    "name": "HoyoLab Honkai Impact 3rd check in",
+    "description": "free xtals lol",
+    "version": "1.1",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "*://*.mihoyo.com/*"
+    ],
+    "permissions": [
+        "webRequest"
+    ],
+    "icons": {
+        "16": "img/icon.png",
+        "32": "img/icon.png",
+        "48": "img/icon.png",
+        "128": "img/icon.png"
+    }
 }
